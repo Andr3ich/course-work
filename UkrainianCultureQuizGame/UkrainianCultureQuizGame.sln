@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkrainianCultureQuizGame", "UkrainianCultureQuizGame\UkrainianCultureQuizGame.csproj", "{99C4F1A1-116F-4D4F-837D-FF95DCFD0C57}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QuizGameUkraine", "QuizGameUkraine\QuizGameUkraine.vdproj", "{D40CD0CF-FCC2-432E-A87B-A2D8103A7867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C4F1A1-116F-4D4F-837D-FF95DCFD0C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C4F1A1-116F-4D4F-837D-FF95DCFD0C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C4F1A1-116F-4D4F-837D-FF95DCFD0C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C4F1A1-116F-4D4F-837D-FF95DCFD0C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40CD0CF-FCC2-432E-A87B-A2D8103A7867}.Debug|Any CPU.ActiveCfg = Debug
+		{D40CD0CF-FCC2-432E-A87B-A2D8103A7867}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46AAB88-E69C-4951-B9E5-C7F22258AA20}
+	EndGlobalSection
+EndGlobal

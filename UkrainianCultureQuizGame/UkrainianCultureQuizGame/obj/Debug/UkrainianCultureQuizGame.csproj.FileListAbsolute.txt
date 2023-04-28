@@ -1,0 +1,11 @@
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\obj\Debug\UkrainianCultureQuizGame.csproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\obj\Debug\UkrainianCultureQuizGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\obj\Debug\UkrainianCultureQuizGame.Form1.resources
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\obj\Debug\UkrainianCultureQuizGame.Properties.Resources.resources
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\obj\Debug\UkrainianCultureQuizGame.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\obj\Debug\UkrainianCultureQuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\bin\Debug\UkrainianCultureQuizGame.exe.config
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\bin\Debug\UkrainianCultureQuizGame.exe
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\bin\Debug\UkrainianCultureQuizGame.pdb
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\obj\Debug\UkrainianCultureQuizGame.exe
+C:\Users\Андрей\source\repos\UkrainianCultureQuizGame\UkrainianCultureQuizGame\obj\Debug\UkrainianCultureQuizGame.pdb
